@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #eff1ff;
+    font-size: 120%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home {
+    border: 2px solid #646FD4;
+    background-color: #eff1ff;
+    color: #646FD4;
+    padding: 10px 15px;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 2%;
+}
+
+.home:hover {
+    background-color: #97D2EC;
+}
+
+.aboutme {
+    border: 2px solid #646FD4;
+    background-color: #eff1ff;
+    color: #646FD4;
+    padding: 10px 15px;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 2%;
+}
+
+.aboutme:hover {
+    background-color: #97D2EC;
+}
+
+.skill {
+    border: 2px solid #646FD4;
+    background-color: #eff1ff;
+    color: #646FD4;
+    padding: 10px 15px;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 2%;
+}
+
+.skill:hover {
+    background-color: #97D2EC;
+}
+
+.hire {
+    border: 2px solid #646FD4;
+    background-color: #eff1ff;
+    color: #646FD4;
+    padding: 10px 15px;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 2%;
+}
+
+.hire:hover {
+    background-color: #97D2EC;
+}
+
+h1 {
+    width: 5vh;
+    display: inline;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    padding-left: 7em;
+
+
+}
+
+h4 {
+    width: 5vh;
+    display: inline;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    padding-left: 7em;
+
+
+}
+
+.about {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+
+}
+
+.h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+    background-color: #eff1ff;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.cloud-white {
+    position: absolute;
+    width: 120px;
+    height: 90px;
+    top: 350px;
+    right: 160px;
+}
+
+.cloud-white-2 {
+    width: 150px;
+    height: 142px;
+    position: absolute;
+    right: 80px;
+    top: 260px;
+}
+
+.cloud-white-3 {
+    width: 150px;
+    height: 142px;
+    position: absolute;
+    left: 60px;
+    top: 33px;
+}
+
+.women {
+    position: relative;
+    bottom: 45vh;
+    right: 50vh;
+
+}
+
+.hina {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    margin-top: 100px;
+}
+
+.skill-section {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5px;
+
+}
+
+.code-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    margin-top: 100px;
+}
+
+.hire-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    margin-top: 100px;
+}
+
+.para-hire {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+}
+
